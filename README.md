@@ -5,7 +5,7 @@
 ![Java](https://img.shields.io/badge/Java-21+-orange?style=flat-square)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-DISABLED-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-DISABLED-Failure?style=flat-square)
 
 **The ultimate high-performance Minecraft client built for competitive PvP players**
 
