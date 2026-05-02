@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-17+-orange?style=flat-square)
+![Java](https://img.shields.io/badge/Java-21+-orange?style=flat-square)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-brightgreen?style=flat-square)
 ![Engine Optimized](https://img.shields.io/badge/Engine-Optimized-8A2BE2?style=flat-square)
 ![PvP Focused](https://img.shields.io/badge/PvP-Focused-FF5555?style=flat-square)
