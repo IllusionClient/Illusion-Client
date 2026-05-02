@@ -135,9 +135,7 @@ Tested on multiple configurations. Results may vary based on your system:
 ### Supported Operating Systems
 - ✅ Windows 10 / 11
 - ✅ macOS 11 (Big Sur) and newer
-- ✅ Ubuntu 20.04 LTS and newer
-- ✅ Fedora 35+
-- ✅ Other Linux distributions with GLIBC 2.31+
+- ❌ Linux distributions with GLIBC 2.31+
 
 ---
 
@@ -166,7 +164,7 @@ If you don't have Java, download it from [oracle.com](https://www.oracle.com/jav
 3. Select your Minecraft installation folder
 4. Click **Install**
 
-**macOS/Linux:**
+**macOS**
 ```bash
 unzip Illusion-Client-v1.2.0.zip
 cd Illusion-Client
