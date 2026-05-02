@@ -621,7 +621,7 @@ By using Illusion Client, you acknowledge that you've read and agreed to this di
 - 🐛 **Bug Reports:** [Issues](https://github.com/EliteCDA/Illusion-Client/issues)
 - 💬 **Questions:** [Discussions](https://github.com/EliteCDA/Illusion-Client/discussions)
 - 🌐 **Website:** Coming soon
-- 🐦 **Twitter:** [@IllusionClient](https://twitter.com)
+     DISCORD SERVER COMING SOON
 
 ---
 
